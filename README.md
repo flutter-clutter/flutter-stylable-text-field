@@ -8,6 +8,3 @@ Making parts of a TextField's content stylable.
 # Article
 
 Find the respective tutorial about how everything was created and how it's to be used on https://www.flutterclutter.dev/flutter/tutorials/styling-parts-of-a-textfield/2021/101326/
-
-
-// TODO: MAKE A FORCE PUSH IN ANY CASE!
