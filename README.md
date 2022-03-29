@@ -2,8 +2,8 @@
 
 Making parts of a TextField's content stylable.
 
-![The idea](https://www.flutterclutter.dev/wp-content/uploads/2021/12/flutter-partially-styled-text-field-input-output.png)
-![The result](https://www.flutterclutter.dev/wp-content/uploads/2021/12/flutter-partially-styled-text-field-498x1024.png)
+![The idea](https://www.flutterclutter.dev/images/wp-content/uploads/2021/12/flutter-partially-styled-text-field-input-output.png)
+![The result](https://www.flutterclutter.dev/images/wp-content/uploads/2021/12/flutter-partially-styled-text-field-498x1024.png)
 
 # Article
 
